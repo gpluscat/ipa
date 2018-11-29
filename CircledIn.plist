@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xpmetal.dev.Encircle</string>
+				<string>com.xpmetal.circledin</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
